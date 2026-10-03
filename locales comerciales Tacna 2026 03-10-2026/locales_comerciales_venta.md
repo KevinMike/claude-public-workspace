@@ -2,7 +2,7 @@
 
 ## Locales comerciales EN VENTA – Tacna
 
-Total de anuncios registrados: **52** (únicos estimados, sin duplicados entre portales: **44**)
+Total de anuncios registrados: **69** (únicos estimados, sin duplicados entre portales: **59**)
 
 ### Edificio / casa con local (11)
 
@@ -26,7 +26,7 @@ Total de anuncios registrados: **52** (únicos estimados, sin duplicados entre p
 |---|---|---|---|---|---|---|---|---|
 | 1 | LaEncontre | Negocio en funcionamiento (excelente oportunidad de inversión) — Pachía (fuera de la ciudad, ~15 km) | Pachía | US$ 785,000 | 4,500 | 24 fotos; 37 imágenes | [ver](https://www.laencontre.com.pe/inmueble/e6ce-8440-19fa6a3-83760166ea7c-71df) | No |
 
-### Hotel / hospedaje / negocio en funcionamiento (10)
+### Hotel / hospedaje / negocio en funcionamiento (13)
 
 | # | Portal | Descripción | Zona | Precio | Área m² | Detalles | Enlace | Dup. |
 |---|---|---|---|---|---|---|---|---|
@@ -39,7 +39,10 @@ Total de anuncios registrados: **52** (únicos estimados, sin duplicados entre p
 | 7 | LaEncontre | Hotel en esquina, campiña tacneña, 15 min del centro | Pocollay | US$ 590,000 | 1,052 (3 anuncios duplicados: 320 / 1,052 m²) | 33 fotos; negocio hotelero | [ver](https://www.laencontre.com.pe/inmueble/ed4a-aaea-c0885440-303ed3936fab-420d) | No |
 | 8 | LaEncontre | Propiedad hotelera en operación con áreas para ampliar | Tacna distrito | US$ 1,500,000 | 1,490 | Hotel en funcionamiento | [ver](https://www.laencontre.com.pe/inmueble/cb98-ad47-19e8ac1-8e3a906c0302-7359) | No |
 | 9 | Instagram | Hotel en esquina Av. Humboldt: 21 hab., 3 locales comerciales | Tacna - Av. Humboldt | precio no visible | 145.94 terreno | 21 hab., 21 baños | [ver](https://www.instagram.com/reel/DcREnVmkmik/) | No |
-| 10 | Facebook | Hotel en el centro comercial de Tacna (local + 10 hab. + restaurante) | Tacna - Centro | US$ 7,950,000 | n/d | Extracto de búsqueda; abrir enlace para verificar | [ver](https://www.facebook.com/groups/1886223371638697/posts/4416744771919865/) | No |
+| 10 | Urbania | Casa/terreno Av. Bolognesi 17xx (entre Calles Piura y Cajamarca, al costado Hotel Viña del Mar) — vendido 'como terreno' | Tacna - Av. Bolognesi | US$ 690,000 | 800 terreno / 360 construidos | 2 lotes independizados, parámetros 3 pisos (Hogar & Estilo) | [ver](https://urbania.pe/inmueble/clasificado/vecltein-venta-de-terreno-en-tacna-tacna-3-dormitorios-150784201) | No |
+| 11 | Urbania | Casa en Av. Bolognesi apta hotel/spa/empresas (3 casas, 12 hab., piscina) | Tacna - Av. Bolognesi | US$ 1,600,000 | 1,383 terreno / 783 construidos | 12 hab., 12 baños | [ver](https://urbania.pe/inmueble/clasificado/veclcain-venta-de-casa-en-tacna-tacna-5-a-mas-dormitorios-3746480) | No |
+| 12 | Facebook | Hotel en el centro comercial de Tacna (local + 10 hab. + restaurante) | Tacna - Centro | US$ 7,950,000 | n/d | Extracto de búsqueda; abrir enlace para verificar | [ver](https://www.facebook.com/groups/1886223371638697/posts/4416744771919865/) | No |
+| 13 | Facebook | Hotel en el centro: edificio 8 pisos con ascensor, 22 hab., restaurante y cafetería | Tacna - Centro | n/d | n/d | Posible mismo hotel del aviso de US$ 7,950,000 · Extracto de búsqueda; abrir enlace para verificar | [ver](https://www.facebook.com/groups/190429034895898/posts/2078932466045536/) | Sí |
 
 ### Industrial / almacén (2)
 
@@ -58,7 +61,7 @@ Total de anuncios registrados: **52** (únicos estimados, sin duplicados entre p
 | 4 | InfoCasas | Propiedad 1,819 m² Av. Celestino Vargas 1113 con Calle Hermanos Reynoso (precio de terreno US$269/m²) | Pocollay | S/ 2,009,000 | 1,819 | Frente 50 m; 3 baños | [ver](https://www.infocasas.com.pe/en-venta-propiedad-de-1819-m2-a-precio-de-terreno-usd269-x-m2-en-pocollaytacna/189601094) | No |
 | 5 | Century 21 | Gran local comercial Av. Capanique s/n (625 m² terreno y construcción) | Pocollay | US$ 290,000 | 625 | 2 baños. Mismo inmueble que alquileres Capanique (verificar) | [ver](https://century21.pe/v/resultados/tipo_local/operacion_venta/en-pais_peru/en-estado_tacna/en-municipio_tacna-tacna) | No |
 
-### Local mediano (150–400 m²) (7)
+### Local mediano (150–400 m²) (8)
 
 | # | Portal | Descripción | Zona | Precio | Área m² | Detalles | Enlace | Dup. |
 |---|---|---|---|---|---|---|---|---|
@@ -68,7 +71,8 @@ Total de anuncios registrados: **52** (únicos estimados, sin duplicados entre p
 | 4 | RE/MAX | Local comercial en venta (ID 1199876) | Coronel Gregorio Albarracín Lanchipa | US$ 280 (S/ 963) ← probable error | 218 | 2 baños | [ver](https://www.remax.pe/web/search/property/propiedad-local-en-venta-coronel-gregorio-albarracin-lanchipa-tacna-tacna-1199876/) | Sí |
 | 5 | InfoCasas | Local comercial centro (Calle Alto Lima) — mismo inmueble que Urbania | Tacna - Centro | S/ 1,300,000 | 237 | 2 baños | [ver](https://www.infocasas.com.pe/venta-local-comercial-centro-tacna/191167052) | Sí |
 | 6 | Instagram | Proyecto locales comerciales, Calle Zela 80 y 82 (197.15 m² totales) | Tacna - Calle Zela | desde US$ 83,000 | 197.15 (total proyecto) | Locales en proyecto inmobiliario; contacto 973 916 358 | [ver](https://www.instagram.com/p/DW2m4oJDmry/) | No |
-| 7 | Facebook | Propiedad Av. Soberanía Nacional: 2 locales comerciales, doble vía | Gregorio Albarracín | n/d | 219 terreno (330 / 426 construidos según otro aviso) | Extracto de búsqueda; abrir enlace para verificar | [ver](https://www.facebook.com/groups/916256976171749/posts/1818708635926574/) | No |
+| 7 | Adondevivir | Local comercial Calle Alto Lima — mismo inmueble que Urbania | Tacna - Centro | US$ 350,000 | 237 |  | [ver](https://www.adondevivir.com/propiedades/clasificado/vecllcin-venta-local-comercial-centro-tacna-60928795.html) | Sí |
+| 8 | Facebook | Propiedad Av. Soberanía Nacional: 2 locales comerciales, doble vía | Gregorio Albarracín | n/d | 219 terreno (330 / 426 construidos según otro aviso) | Extracto de búsqueda; abrir enlace para verificar | [ver](https://www.facebook.com/groups/916256976171749/posts/1818708635926574/) | No |
 
 ### Local pequeño (30–150 m²) (3)
 
@@ -84,7 +88,7 @@ Total de anuncios registrados: **52** (únicos estimados, sin duplicados entre p
 |---|---|---|---|---|---|---|---|---|
 | 1 | InfoCasas | Restaurante amplio, Av. Celestino Vargas frente a EsSalud Calana | Calana | S/ 1,398,750 | 730 | Estacionamiento, pista de baile, escenario, 3 baños | [ver](https://www.infocasas.com.pe/se-vende-amplio-restaurante-en-buena-zona-de-la-avenida-principal-de-calana/190821951) | No |
 
-### Sin área indicada (5)
+### Sin área indicada (8)
 
 | # | Portal | Descripción | Zona | Precio | Área m² | Detalles | Enlace | Dup. |
 |---|---|---|---|---|---|---|---|---|
@@ -93,6 +97,9 @@ Total de anuncios registrados: **52** (únicos estimados, sin duplicados entre p
 | 3 | Facebook | Local N° 209, 2.º nivel, Av. 2 de Mayo (galería) | Tacna - Av. 2 de Mayo | n/d | n/d | Extracto de búsqueda; abrir enlace para verificar | [ver](https://www.facebook.com/groups/1603524353113395/posts/4042095059256300/) | No |
 | 4 | Facebook | Amplio lote con local comercial, inversión / proyecto inmobiliario | Tacna | US$ 700,000 | n/d | Facilidades de pago · Extracto de búsqueda; abrir enlace para verificar | [ver](https://www.facebook.com/groups/142732965818436/posts/28458718490459838/) | No |
 | 5 | Facebook | Propiedad con local en Av. Celestino Vargas, trato directo con propietaria (941 042 781) | Calana / Pocollay | US$ 155,000 (conversable) | n/d | Documentación en regla · Extracto de búsqueda; abrir enlace para verificar | [ver](https://www.facebook.com/groups/870038963810373/) | No |
+| 6 | Facebook | Local y vivienda en esquina, Ciudad Nueva | Ciudad Nueva | n/d | n/d | Extracto de búsqueda; abrir enlace para verificar | [ver](https://www.facebook.com/marketplace/item/1925752934830514/) | No |
+| 7 | Facebook | Propiedad con potencial comercial, Av. Los Escritores | Tacna | n/d | n/d | Extracto de búsqueda; abrir enlace para verificar | [ver](https://www.facebook.com/groups/916256976171749/posts/1811144866682951/) | No |
+| 8 | Facebook | Propiedad comercial en venta, Calle Arica con Av. (centro) | Tacna - Centro | n/d | n/d | Extracto de búsqueda; abrir enlace para verificar | [ver](https://www.facebook.com/groups/1544647349280538/posts/2449499995461931/) | No |
 
 ### Stand / tienda en galería (<30 m²) (4)
 
@@ -103,11 +110,26 @@ Total de anuncios registrados: **52** (únicos estimados, sin duplicados entre p
 | 3 | Facebook | Local 15 m² en C.C. Solari Plaza, con título inscrito | Tacna - Centro | US$ 114,000 | 15 | Extracto de búsqueda; abrir enlace para verificar | [ver](https://www.facebook.com/marketplace/item/1038249265652090/) | No |
 | 4 | Facebook | Local 7.86 m² 1er piso en Mercado Central (con título) | Tacna - Mercado Central | precio no visible | 7.86 | Extracto de búsqueda; abrir enlace para verificar | [ver](https://www.facebook.com/marketplace/item/2053151618910106/) | No |
 
-### Terreno comercial (3)
+### Terreno comercial (10)
 
 | # | Portal | Descripción | Zona | Precio | Área m² | Detalles | Enlace | Dup. |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Century 21 | Terreno comercial Av. Jorge Basadre Grohmann Oeste 440-450 | Tacna | US$ 650,000 | 502 terreno | Terreno, no edificado (listado como 'local') | [ver](https://century21.pe/propiedad/30893_terreno-comercial-en-venta-av-jorge-basadre-tacna) | No |
 | 2 | Doomos | Terreno comercial pleno centro, Av. San Martín 776 (inmueble existente requiere remodelación) — publicado 28-set | Tacna - Av. San Martín | US$ 4,500,000 | 1,380 | Valor principal en el terreno; ideal hotel/clínica/centro comercial | [ver](https://www.doomos.com.pe/propiedad/local-comercial-av-san-martin-cuadra-7-tacna) | No |
-| 3 | Facebook | Terreno comercial en Av. 2 de Mayo | Tacna - Av. 2 de Mayo | n/d | n/d | Terreno · Extracto de búsqueda; abrir enlace para verificar | [ver](https://www.facebook.com/marketplace/item/841110958720160/) | No |
+| 3 | Urbania | Terreno comercial 760 m² Av. San Martín 719-723 / Calle Bolívar (2 frentes), hasta 5 pisos | Tacna - Av. San Martín | US$ 2,550,000 (S/ 8,506,800) | 760 | Aviso duplicado en Urbania (2 publicaciones) | [ver](https://urbania.pe/inmueble/clasificado/vecltein-venta-de-terreno-en-cercado-de-tacna-tacna-151043189) | No |
+| 4 | Urbania | Terreno frente a Plaza Mac Lean, Av. 2 de Mayo 645 (precio oportunidad) | Tacna - Av. 2 de Mayo | US$ 549,000 | 359.98 | Frente 18.5 m; título independiente; zonif. R5/C3 | [ver](https://urbania.pe/inmueble/clasificado/vecltein-venta-de-terreno-en-cercado-de-tacna-tacna-150541796) | No |
+| 5 | Urbania | Terreno 7,111 m² cerca Mercado Central, Coronel Bustios (centro/galería comercial) | Tacna - Mercado Central | US$ 4,480,000 | 7,111 | Potencial plaza comercial | [ver](https://urbania.pe/inmueble/clasificado/vecltein-venta-de-terreno-en-tacna-tacna-150855311) | No |
+| 6 | Urbania | Terreno 'flat' Av. Bolognesi N° 1 (85 x 100 m) | Tacna - Av. Bolognesi | US$ 5,100,000 | 8,500 |  | [ver](https://urbania.pe/inmueble/clasificado/vecltein-venta-de-terreno-en-tacna-tacna-149132306) | No |
+| 7 | Urbania | Terreno 10,570 m² Av. Prolongación 2 de Mayo (zonif. R3 compatible comercio zonal) | Tacna - Pról. 2 de Mayo | US$ 4,101,160 | 10,570 | Cercado; servicios completos | [ver](https://urbania.pe/inmueble/clasificado/vecltein-venta-de-terreno-en-tacna-tacna-149820414) | No |
+| 8 | Urbania | Terreno 4,000 m² Óvalo Callao | Tacna - Óvalo Callao | US$ 6,000,000 | 4,000 |  | [ver](https://urbania.pe/inmueble/clasificado/vecltein-venta-de-terreno-en-tacna-tacna-149471810) | No |
+| 9 | Facebook | Terreno comercial en Av. 2 de Mayo | Tacna - Av. 2 de Mayo | n/d | n/d | Terreno · Extracto de búsqueda; abrir enlace para verificar | [ver](https://www.facebook.com/marketplace/item/841110958720160/) | No |
+| 10 | Facebook | Terreno Av. Bolognesi, costado del Escuadrón de la Policía (negocio / proyecto inmobiliario) | Tacna - Av. Bolognesi | n/d | n/d | Terreno · Extracto de búsqueda; abrir enlace para verificar | [ver](https://www.facebook.com/groups/973582980512015/posts/1631807534689553/) | No |
+
+### Traspaso de negocio (3)
+
+| # | Portal | Descripción | Zona | Precio | Área m² | Detalles | Enlace | Dup. |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Doomos | Traspaso restaurante-restobar en funcionamiento (Doomos, 28-feb) | Tacna | US$ 105,000 (traspaso) | 350 | Traspaso de negocio; 1 hab. | [ver](https://www.doomos.com.pe/propiedad/traspaso-restaurante-restobar) | No |
+| 2 | Doomos | Traspaso laboratorio óptico en actividad, Calle Bolívar, Cercado (Doomos, 21-abr) | Tacna - Calle Bolívar | US$ 150,000 (traspaso) | 90 (190 según listado) | Negocio en marcha; US$ 1,667/m² | [ver](https://www.doomos.com.pe/propiedad/traspaso-laboratorio-optico-en-actividad) | No |
+| 3 | Doomos | Traspaso de hospedaje, edificio 3 pisos, cerca del mercado de Ciudad Nueva (Doomos, 22-nov) | Ciudad Nueva | S/ 3,000 (traspaso; verificar) | 220 | Hospedaje en funcionamiento | [ver](https://www.doomos.com.pe/propiedad/traspaso-de-hospedaje-en-tacna) | No |
 

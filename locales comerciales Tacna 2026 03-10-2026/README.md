@@ -1,6 +1,6 @@
 # Locales comerciales en Tacna – Venta y Alquiler (03-10-2026)
 
-Búsqueda realizada el **3 de octubre de 2026** en portales inmobiliarios, agregadores, sitios de inmobiliarias locales, Instagram y Facebook (Marketplace y grupos).
+Búsqueda realizada el **3 de octubre de 2026** (ampliada en una segunda pasada: traspasos de negocio, terrenos comerciales céntricos, galerías y más avisos de Facebook) en portales inmobiliarios, agregadores, sitios de inmobiliarias locales, Instagram y Facebook (Marketplace y grupos).
 
 ## Archivos
 
@@ -8,7 +8,8 @@ Búsqueda realizada el **3 de octubre de 2026** en portales inmobiliarios, agreg
 |---|---|
 | [`locales_comerciales_venta.md`](locales_comerciales_venta.md) | Tablas de locales **en venta**, categorizadas, con enlaces |
 | [`locales_comerciales_alquiler.md`](locales_comerciales_alquiler.md) | Tablas de locales **en alquiler**, categorizadas, con enlaces |
-| [`locales_comerciales_tacna_2026-10-03.csv`](locales_comerciales_tacna_2026-10-03.csv) | Toda la data estructurada (103 filas) para Excel / Google Sheets |
+| [`locales_comerciales_tacna_2026-10-03.xlsx`](locales_comerciales_tacna_2026-10-03.xlsx) | **Excel para revisión humana**: hojas Todo / Venta / Alquiler / Únicos / Leeme, con filtros, enlaces clicables, US$ aprox., US$/m² y columnas *Estado revisión* y *Notas del revisor* |
+| [`locales_comerciales_tacna_2026-10-03.csv`](locales_comerciales_tacna_2026-10-03.csv) | Toda la data estructurada (130 filas) para Excel / Google Sheets |
 
 Columnas: operación, categoría, portal/fuente, descripción, zona/distrito, precio, área m², detalles, enlace, posible duplicado.
 
@@ -16,8 +17,8 @@ Columnas: operación, categoría, portal/fuente, descripción, zona/distrito, pr
 
 | | Registrados | Únicos estimados* |
 |---|---|---|
-| Venta | 52 | 44 |
-| Alquiler | 52 | 41 |
+| Venta | 69 | 59 |
+| Alquiler | 62 | 51 |
 
 \* Un mismo inmueble suele aparecer en 2–4 portales (p. ej. el edificio de 6,242 m² en Urbania/FunHome, el local de Calle Alto Lima en Urbania/InfoCasas/Ubicasa). Esos casos están marcados con `Sí` en la columna *Dup.* y se excluyen del conteo de únicos. Un aviso (Urbania, Av. Cusco) figura como "venta o alquiler" y se cuenta en ambas tablas.
 
