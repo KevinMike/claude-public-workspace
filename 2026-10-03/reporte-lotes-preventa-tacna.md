@@ -89,3 +89,23 @@ Lectura: la comparación es solo orientativa. Necesitas tasaciones o ventas cerr
 - Revisar Facebook Marketplace manualmente: "lotes Tacna preventa", "terreno Pocollay", "terreno Viñani".
 - Pedir lista de precios actual a Terrabella (hay PDF en su página), Noura (Los Frutales), Nopal (Óvalo Callao) y Pirca (San Germán).
 - Si quieres, repito la búsqueda para Calana, Pachía, Ciudad Nueva y Alto de la Alianza.
+
+---
+
+## Actualización (segunda pasada, misma fecha)
+Se revisaron Ubicasa, Urbania, Adondevivir, Trovit, FazWaz y las páginas de Terrabella y Centenario. Todo el detalle está en `lotes-tacna-todos-los-hallazgos.csv` (145 filas). Hallazgos nuevos más relevantes:
+
+**Preventa / proyectos adicionales (Tacna)**
+| Proyecto | Zona | Situación | Precio "desde" | Condiciones | Confianza | Fuente |
+|---|---|---|---|---|---|---|
+| La Estancia Urbanización (Terrabella) | Av. San José Obrero con Jr. Las Gardenias, ~8 min del centro cívico | PRE-VENTA; HU aprobada (N° 5033-22-GDU-MPT); 106 lotes, 80 disponibles según la página (fecha no visible); lote mínimo 110 m² | US$ 18,756 | Contado 10% dscto; 50% inicial y hasta 24 cuotas sin interés | Media | https://terrabella.pe/proyectos/terrenos-de-ciudad/la-estancia-urbanizacion |
+| La Toscana Condominio (Terrabella) | Calle Venezuela s/n, costado Innova School | En venta; +100 lotes; mínimo 120 m² | US$ 48,500 | 18 meses sin interés; inicial 35%; bonos hasta US$ 3,000 | Media | https://terrabella.pe/proyectos/terrenos-de-ciudad/la-toscana-condominio |
+| Alameda Country Club (Terrabella) | Av. Celestino Vargas 248 (Pocollay) | +100 lotes; mínimo 120 m² | US$ 75,000 (Terrabella) vs. US$ 56,800 por 120 m² (FazWaz) | — | Baja (precios en conflicto) | https://terrabella.pe/proyectos/terrenos-de-ciudad |
+| Los Granados (Centenario) | Circunvalación Sur / Magollo (fuentes difieren) | Independizado | S/ 53,385 por 90 m² (Centenario); US$ 63,000 por 90 m² (Ubicasa) | Cuotas desde S/ 851 | Baja-Media | https://centenario.com.pe/proyecto/tacna-los-granados/ |
+| Residencial Talavera | Calana | Preventa | Inicial desde S/ 50,000 | Precio total no visible | Baja | https://www.instagram.com/reel/DQ9mrftjQUy/ |
+| San Germán de Pocollay (Pirca) | Pocollay | Preventa; lotes de 224–523 m² | US$ 410 por m² | 12 cuotas sin interés | Baja (fecha no verificada) | https://www.facebook.com/pircaconstructora/posts/pre-venta-de-lotes-en-urb-san-germ%C3%A1n-ubicada-en-la-mejor-zona-de-pocollay-tacna-/2595887517298467/ |
+
+**Correcciones al reporte original**
+- El terreno de 3,215.52 m² cuesta US$ 253,000 (equivalente a S/ 860,200).
+- El aviso de Plaza Mac Lean (360 m²) muestra "S/ 1,900,000,000" en los portales. Es un error del aviso; el valor coherente es US$ 549,000, y es comercial.
+- No pude extraer los precios de LaEncontre (página dinámica) ni obtener datos confiables de Mitula. Esas dos fuentes siguen pendientes de revisión manual.
